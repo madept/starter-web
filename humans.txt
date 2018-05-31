@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Krish krish.chauhan@gmail.com
 
 # THANKS
 
